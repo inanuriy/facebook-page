@@ -1,0 +1,53 @@
+header {
+  background: darkblue;
+  width: 100%;
+  height: 80px;
+}
+
+.headerContent {
+  max-width: 700px;
+}
+
+.facebookLogo {
+  width: 200px;
+  padding-top: 20px;
+}
+
+.loginInfo {
+  padding-top: 20px;
+}
+
+main {
+  background-image: linear-gradient(rgb(241, 241, 245), rgb(191, 191, 221));
+  display: flex;
+  flex-direction: row;
+}
+.leftPage {
+  width: 400px;
+  padding: 40px 10px 10px 0px;
+  color: darkblue;
+  font-size: 18px;
+  font-weight: bold;
+
+}
+
+.worldMap {
+  width: 450px;
+}
+
+.rightPage {
+  width: 500px;
+  padding: 40px 0px 50px 30px;
+  color: darkblue;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.pRegistration {
+  font-size: 10px;
+}
+
+.daftarButton {
+  width: 200px;
+  margin: 10px 0 30px 0;
+}
